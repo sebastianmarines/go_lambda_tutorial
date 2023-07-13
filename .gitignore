@@ -1,0 +1,5 @@
+# .gitignore
+**/.terraform/*
+*.tfstate
+bootstrap
+lambda-handler.zip
